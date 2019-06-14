@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556717158 source:g:\college\data structure\assignment 4\text builder\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<iomanip>
+
